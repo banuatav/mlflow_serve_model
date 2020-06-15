@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/banuatav/_test_env/host_clmod_mlflow/mlruns/0/049c44e6ffdd4007857b59169290fdfa/artifacts
+end_time: 1592236132108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 049c44e6ffdd4007857b59169290fdfa
+run_uuid: 049c44e6ffdd4007857b59169290fdfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1592236132050
+status: 4
+tags: []
+user_id: banuatav
